@@ -10,7 +10,5 @@
   <img src="https://user-images.githubusercontent.com/12404118/55349000-8401b000-54f3-11e9-92dc-21baddbefc7c.png" alt="Move to SlideShare"/>
   </a>
   
-  <strong style="text-align:center">[Click image to Slide Share]</strong>
-  
 </body>
 </html>
