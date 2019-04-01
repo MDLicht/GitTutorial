@@ -7,10 +7,10 @@
 <body style="margin:0px;padding:0px;overflow:hidden;text-align:center">
   
   <a href="https://www.slideshare.net/ssuser400036/git-tutorial-139106304">
-  <img src="https://user-images.githubusercontent.com/12404118/55349000-8401b000-54f3-11e9-92dc-21baddbefc7c.png"/>
+  <img src="https://user-images.githubusercontent.com/12404118/55349000-8401b000-54f3-11e9-92dc-21baddbefc7c.png" alt="Move to SlideShare"/>
   </a>
   
-  <strong>[Click image to Slide Share]</strong>
+  <strong style="text-align:center">[Click image to Slide Share]</strong>
   
 </body>
 </html>
